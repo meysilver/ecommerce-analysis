@@ -19,4 +19,4 @@ SQL analysis of 100,000+ real orders from the Olist Brazilian e-commerce dataset
 
 ## Files
 - `ecommerce_analysis.sql` — all queries with comments
-- `ecommerce_analysis.pdf` — full analysis with results and insights
+- `Brazilian Ecommerce SQL Analysis.pdf` — full analysis with results and insights
